@@ -1,0 +1,3 @@
+while game:GetService("RunService").RenderStepped:wait() do
+    game.Workspace.Camera.FieldOfView = 103
+end
